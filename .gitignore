@@ -2,6 +2,7 @@ examples/uploads/*
 tmp
 libs
 jslint.xml
+.idea
 .settings
 .project
 docs
@@ -16,3 +17,4 @@ jscoverage
 .DS_Store
 _notes
 node_modules
+atlassian-ide-plugin.xml
